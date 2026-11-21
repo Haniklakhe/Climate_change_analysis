@@ -1,0 +1,21 @@
+# Windows / Google Drive metadata
+desktop.ini
+Thumbs.db
+~$*
+*.tmp
+
+# Local assistant memory and session state (not part of the research)
+.remember/
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Large raw inputs that are not redistributed here
+NEX_GDDP_CMIP6/
+*.nc
+*.nc4
+*.zarr/

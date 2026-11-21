@@ -1,0 +1,2 @@
+Model,Scenario,Stations,Days,Output,Status
+ACCESS-CM2,historical,10,10957,Stationwise/Precipitation/BiasCorrected_QM_Precipitation/ACCESS-CM2/historical/ACCESS-CM2_historical_pr_qm_bias_corrected.csv,Success
